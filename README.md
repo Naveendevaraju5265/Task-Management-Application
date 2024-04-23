@@ -1,5 +1,8 @@
 # Developed by
-Nithin S R \n
+Nithin S R
+
 Nagaraj Sori
+
 Naveen D
+
 Parashuram G P
